@@ -1,0 +1,15 @@
+
+h1 {
+  font-family: 'Vollkorn', serif;
+  font-size :55px;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+body{
+  background-size: 100%;
+}
+
+.weather p {
+  font-size: 28px;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
